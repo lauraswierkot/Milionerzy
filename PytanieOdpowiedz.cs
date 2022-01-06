@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace ConsoleApp10
 {
-    class PytanieOdpowiedz
+    public class PytanieOdpowiedz
     { 
 
         private string pytanie;

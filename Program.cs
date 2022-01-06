@@ -9,8 +9,8 @@ namespace ConsoleApp10
     {
         static void Main(string[] args)
         {
-            string filePath = @"C:\Users\Laura\text.txt";
-            string filePathSave = @"C:\Users\Laura\results.txt";
+            string filePath = @"text.txt";
+            string filePathSave = @"results.txt";
 
 
             Console.WriteLine("Gra: Milionerzy");
